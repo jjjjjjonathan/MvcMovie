@@ -1,11 +1,3 @@
-D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\appsettings.Development.json
-D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\appsettings.json
-D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\mvcMovie.staticwebassets.runtime.json
-D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\mvcMovie.exe
-D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\mvcMovie.deps.json
-D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\mvcMovie.runtimeconfig.json
-D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\mvcMovie.dll
-D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\mvcMovie.pdb
 D:\wsl2\mvcMovie\mvcMovie\mvcMovie\obj\Debug\net6.0\mvcMovie.csproj.AssemblyReference.cache
 D:\wsl2\mvcMovie\mvcMovie\mvcMovie\obj\Debug\net6.0\mvcMovie.GeneratedMSBuildEditorConfig.editorconfig
 D:\wsl2\mvcMovie\mvcMovie\mvcMovie\obj\Debug\net6.0\mvcMovie.AssemblyInfoInputs.cache
@@ -14,6 +6,14 @@ D:\wsl2\mvcMovie\mvcMovie\mvcMovie\obj\Debug\net6.0\mvcMovie.csproj.CoreCompileI
 D:\wsl2\mvcMovie\mvcMovie\mvcMovie\obj\Debug\net6.0\mvcMovie.MvcApplicationPartsAssemblyInfo.cache
 D:\wsl2\mvcMovie\mvcMovie\mvcMovie\obj\Debug\net6.0\mvcMovie.RazorAssemblyInfo.cache
 D:\wsl2\mvcMovie\mvcMovie\mvcMovie\obj\Debug\net6.0\mvcMovie.RazorAssemblyInfo.cs
+D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\appsettings.Development.json
+D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\appsettings.json
+D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\mvcMovie.staticwebassets.runtime.json
+D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\mvcMovie.exe
+D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\mvcMovie.deps.json
+D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\mvcMovie.runtimeconfig.json
+D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\mvcMovie.dll
+D:\wsl2\mvcMovie\mvcMovie\mvcMovie\bin\Debug\net6.0\mvcMovie.pdb
 D:\wsl2\mvcMovie\mvcMovie\mvcMovie\obj\Debug\net6.0\staticwebassets.build.json
 D:\wsl2\mvcMovie\mvcMovie\mvcMovie\obj\Debug\net6.0\staticwebassets.development.json
 D:\wsl2\mvcMovie\mvcMovie\mvcMovie\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
