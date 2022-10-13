@@ -1,4 +1,4 @@
-﻿@model IEnumerable<MvcMovie.Models.Movie>
+﻿@model IEnumerable<mvcMovie.Models.Movie>
 
 @{
     ViewData["Title"] = "Index";
@@ -9,6 +9,14 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+
+<form asp-controller="Movies" asp-action="Index">
+    <p>
+        Title: <input type="text" name="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
 <table class="table">
     <thead>
         <tr>
